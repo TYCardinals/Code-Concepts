@@ -6,5 +6,5 @@ data structures, algorithms, variables, conditional statements, loops, functions
 
 Concepts included:
 
-Generator
+Generator<br>
 Recursion
